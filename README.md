@@ -5,9 +5,6 @@
 - Completed five Level 3 assignment problems.
 - Practiced nested loops, while loops, switch statements, break, continue, and conditional logic.
 
-**Next Session Plan:**
-- Continue with the next session's problems.
-
 **Issues Faced:**
 - None
 
